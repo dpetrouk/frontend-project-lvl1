@@ -5,7 +5,7 @@
 
 This is the [first project](https://ru.hexlet.io/programs/frontend/projects/44) from Hexlet Frontend Program.
 
-[Replit.com demonstration](https://replit.com/@dpetruk/frontend-project-lvl1#REPLIT%20README.md)
+[Demonstration on Replit](https://replit.com/@dpetruk/frontend-project-lvl1#REPLIT%20README.md)
 
 ## Five simple CLI games:
 
