@@ -32,6 +32,8 @@ git clone https://github.com/dpetruk/frontend-project-lvl1.git
  npm link
  ```
 
+If you want then to delete games just type `npm unlink` in the same folder.
+
 ## Running:
 
 ### 1. Is Number Even?
